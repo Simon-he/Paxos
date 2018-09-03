@@ -1,0 +1,21 @@
+{
+	"name": "paxos-simon",
+	"version": "0.0.1",
+	"description": "test on paxos algorithm",
+	"author":
+		"Simon",
+	"license": "MIT",
+	"main": "app.js",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		
+		"express": "=4.16.0"
+	},
+	"devDependencies": {
+		
+	},
+	"snyk": true
+	
+}
